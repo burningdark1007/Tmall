@@ -18,7 +18,7 @@
 
     .header .tm-logo {
         margin-top: 8px;
-        width: 190px;
+        width: 240px;
     }
 
     #mallPage, #mallPage.mallChn {
@@ -30,7 +30,9 @@
 <div class="mallPage" id="mallPage">
     <div class="header">
         <a href="/home">
-            <img src="/img/fore/tmallLogo.png" class="tm-logo">
+            <!--
+            <img src="/img/fore/logo.jpg" class="tm-logo">
+            -->
         </a>
     </div>
 </div>
@@ -155,7 +157,7 @@
 <div class="content">
     <div class="login-banner-wrap" style="width: 100%; background-color: rgb(223, 226, 231);" title="">
         <div class="inner">
-            <img src="/img/fore/loginPage-background.jpg">
+            <img src="img/fore/background.jpg">
         </div>
     </div>
 
@@ -174,7 +176,7 @@
                         <span class="loginInputIcon">
 					        <span class=" glyphicon glyphicon-user"></span>
 				        </span>
-                        <input id="name" name="name" placeholder="手机/会员名/邮箱" type="text">
+                        <input id="name" name="name" placeholder="账户" type="text">
                     </div>
                     <div class="field">
                         <span class="loginInputIcon ">
@@ -183,7 +185,7 @@
                         <input id="password" name="password" type="password" placeholder="密码" type="text">
                     </div>
 
-                    <span class="text-danger">不要输入真实的天猫账号密码</span><br><br>
+                    <span class="text-danger">请输入密码</span><br><br>
 
                     <div style="margin-top:10px">
                         <button class="redButton" type="submit">登 录</button>

@@ -111,32 +111,41 @@
                 <img src="img/fore/footer1.png">
                 <img src="img/fore/footer2.png">
                 <img src="img/fore/footer3.png">
+                <!--
                 <img src="img/fore/footer4.png">
+                -->
             </a>
         </div>
 
         <div class="tmall-desc">
             <dl>
+                <!--
                 <dt><span>购物指南</span></dt>
                 <dd><a href="#nowhere">免费注册</a></dd>
                 <dd><a href="#nowhere">开通支付宝</a></dd>
                 <dd><a href="#nowhere">支付宝充值</a></dd>
+                -->
             </dl>
             <dl>
+                <!--
                 <dt><span>天猫保障</span></dt>
                 <dd><a href="#nowhere">发票保障</a></dd>
                 <dd><a href="#nowhere">售后规则</a></dd>
                 <dd><a href="#nowhere">缺货赔付</a></dd>
+                -->
             </dl>
             <dl>
+                <!--
                 <dt><span>支付方式</span></dt>
                 <dd><a href="#nowhere">快捷支付</a></dd>
                 <dd><a href="#nowhere">信用卡</a></dd>
                 <dd><a href="#nowhere">余额宝</a></dd>
                 <dd><a href="#nowhere">蚂蚁花呗</a></dd>
                 <dd><a href="#nowhere">货到付款</a></dd>
+                -->
             </dl>
             <dl>
+                <!--
                 <dt><span>商家服务</span></dt>
                 <dd><a href="#nowhere">天猫规则</a></dd>
                 <dd><a href="#nowhere">商家入驻</a></dd>
@@ -145,10 +154,13 @@
                 <dd><a href="#nowhere">物流服务</a></dd>
                 <dd><a href="#nowhere">喵言喵语</a></dd>
                 <dd><a href="#nowhere">运营服务</a></dd>
+                -->
             </dl>
             <dl>
+                <!--
                 <dt><span>手机天猫</span></dt>
                 <dd><a href="#nowhere"><img src="img/fore/qr-code.png"></a></dd>
+                -->
             </dl>
         </div>
 
@@ -156,12 +168,13 @@
     </div>
 
     <div class="workArea">
-        <img src="/img/fore/tmall-cat.png" class="tmall-cat">
+        <!--<img src="/img/fore/tmall-cat.png" class="tmall-cat">-->
     </div>
     <div class="tmall-copyright">
         <div class="workArea">
             <div class="mui-global-fragment-load">
                 <div class="footer-tmallinfo">
+                    <!--
                     <a href="#nowhere" style="padding-left:0px">关于天猫</a>
                     <a href="#nowhere">帮助中心</a>
                     <a href="#nowhere">开放平台</a>
@@ -172,8 +185,10 @@
                     <a href="#nowhere">知识产权</a>
                     <a href="#nowhere">廉正举报</a>
                     <a href="#nowhere">规则意见征集</a>
+                    -->
                 </div>
                 <div class="footer-tmallinfo">
+                    <!--
                     <a href="#nowhere" style="padding-left:0px">阿里巴巴集团</a><span class="slash">|</span>
                     <a href="#nowhere">淘宝网</a><span class="slash">|</span>
                     <a href="#nowhere">天猫</a><span class="slash">|</span>
@@ -195,9 +210,11 @@
                     <a href="#nowhere">来往</a><span class="slash">|</span>
                     <a href="#nowhere">钉钉</a><span class="slash">|</span>
                     <a href="#nowhere">支付宝</a>
+                    -->
                 </div>
 
                 <div class="footer-copyright">
+                    <!--
                     增值电信业务经营许可证：<a href="#nowhere">浙B2-20110446</a>
                     网络文化经营许可证：<a href="#nowhere">浙网文[2015]0295-065号</a>
                     <a href="#nowhere">12318举报</a>
@@ -211,6 +228,7 @@
                         <img src="img/fore/copyRight1.jpg">
                         <img src="img/fore/copyRight2.jpg">
                     </div>
+                    -->
                 </div>
             </div>
 

@@ -91,8 +91,8 @@
     }
 
     .logo img {
-        height: 30px;
-        width: 145px;
+        height: 130px;
+        width: 240px;
     }
 </style>
 
@@ -101,18 +101,21 @@
     <div class="headerCon">
         <div class="logo">
             <a href="/home">
-                <img src="img/fore/tmallLogo.png" id="logo">
+                <img src="img/fore/logo.jpg" id="logo">
             </a>
         </div>
         <div class="fullSearchDiv">
             <form class="searchFrom" action="searchProduct">
-                <input type="text" value="${param.keyword}" placeholder="搜索 天猫 商品/品牌/店铺" name="keyword">
-                <button class="searchButton" type="submit">搜天猫</button>
+                <input type="text" value="${param.keyword}" placeholder="搜索商品" name="keyword">
+                <button class="searchButton" type="submit">搜索</button>
             </form>
+            <!--
             <div>
                 <button class="shopButton" type="button">搜本店</button>
             </div>
+            -->
             <div class="searchBelow">
+                <!--
 				<span> <a href="#nowhere"> 手机 </a> <span>|</span>
 				</span> <span> <a href="#nowhere"> 小米mix2s </a> <span>|</span>
 				</span> <span> <a href="#nowhere"> 小米 </a> <span>|</span>
@@ -120,6 +123,7 @@
                 </span> <span> <a href="#nowhere"> 小米6 </a></span><span>|</span>
                 </span> <span> <a href="#nowhere"> 高通骁龙手机 </a></span><span>|</span>
                 </span> <span> <a href="#nowhere"> 小米手机 </a></span>
+                -->
             </div>
         </div>
     </div>

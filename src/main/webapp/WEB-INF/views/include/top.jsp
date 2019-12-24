@@ -9,7 +9,7 @@
         <%-- 导航栏左半部分
          如果取不到用户信息则显示如下： --%>
         <c:if test="${empty sessionScope.user}">
-            <span>喵，欢迎来天猫</span>
+            <span>喵，欢迎来生鲜购物超市</span>
             <span><a href="/loginPage">请登录</a></span>
             <span><a href="/registerPage">免费注册</a></span>
         </c:if>

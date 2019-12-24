@@ -330,7 +330,7 @@
 
         <style>
             .nrt {
-                background: url(/img/fore/no-product.png) 35px center no-repeat #fff8f6;
+                background: 35px center no-repeat #fff8f6;
                 color: #595959;
                 margin-bottom: 10px;
                 padding: 20px 0 20px 123px;

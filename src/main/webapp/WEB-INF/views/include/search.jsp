@@ -8,27 +8,28 @@
         <%-- 图片logo --%>
         <div class="logo">
             <a href="${context}">
-                <img src="img/fore/tmall-logo.png">
+                <img src="img/fore/logo.jpg">
             </a>
         </div>
 
         <%-- 搜索框 --%>
         <form class="mallSearch-input" action="/searchProduct">
-            <input name="keyword" type="text" placeholder="搜索 天猫 商品/品牌/店铺">
+            <input name="keyword" type="text" placeholder="搜索商品">
             <button type="submit" class="searchButton">搜索</button>
             <ul class="hot-query">
                 <li>
-                    <a href="searchProduct?keyword=针织衫">针织衫</a>
+                    <a href="searchProduct?keyword=针织衫">水果</a>
                 </li>
                 <li class="hot-query-li">
-                    <a href="">连衣裙</a>
+                    <a href="">海鲜</a>
                 </li>
                 <li class="hot-query-li">
-                    <a href="">四件套</a>
+                    <a href="">肉类</a>
                 </li>
                 <li class="hot-query-li">
-                    <a href="">摄像头</a>
+                    <a href="">禽蛋</a>
                 </li>
+                <!--
                 <li class="hot-query-li">
                     <a href="">客厅灯</a>
                 </li>
@@ -44,6 +45,7 @@
                 <li class="hot-query-li">
                     <a href="">牛奶</a>
                 </li>
+                -->
             </ul>
         </form>
     </div>
@@ -59,12 +61,14 @@
             <span class="category-type-text">商品分类</span>
         </span>
         <span>
+            <!--
             <a href="">
                 <img src="img/fore/tmall-shop.png">
             </a>
             <a href="">
                 <img src="img/fore/tmall-international.png">
             </a>
+            -->
             <c:forEach items="${links}" var="link">
                 <a href="${link.link}">${link.text}</a>
             </c:forEach>

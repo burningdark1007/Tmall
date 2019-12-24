@@ -270,7 +270,6 @@
             alert("模仿天猫的连接，并没有跳转到实际的页面");
         });
 
-
         $("a.wangwanglink").click(function () {
             alert("模仿旺旺的图标，并不会打开旺旺");
         });
@@ -324,7 +323,7 @@
                 <tr>
                     <th colspan="2" class="productListTableFirstColumn">
                         <img class="tmallbuy" src="img/fore/tmallbuy.png">
-                        <a class="marketLink" href="#nowhere">店铺：天猫店铺</a>
+                        <a class="marketLink" href="#nowhere">店铺：生鲜购物</a>
                         <a class="wangwanglink" href="#nowhere"> <span class="wangwangGif"></span></a>
                     </th>
                     <th>单价</th>
