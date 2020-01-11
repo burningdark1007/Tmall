@@ -3,9 +3,11 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <html>
 <head>
+    <link rel="icon" href="/img/fore/logo3.jpg" sizes="32x32">
+
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>模仿天猫-后台</title>
+    <title>生鲜超市-后台</title>
     <!-- Bootstrap Styles-->
     <link href="../assets/css/bootstrap.css" rel="stylesheet" />
     <!-- FontAwesome Styles-->

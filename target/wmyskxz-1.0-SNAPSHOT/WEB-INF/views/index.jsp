@@ -13,9 +13,9 @@
     }
 
     .normal-nav {
-        background-color: rgba(0, 0, 0, .55);
+        background-color: rgba(0, 0, 0, .20);
         width: 200px;
-        height: 500px;
+        height: 243.44px;
         position: absolute;
         z-index: 11;
     }
@@ -227,16 +227,16 @@
             <!-- Wrapper for slides -->
             <div role="listbox" class="carousel-inner">
                 <div class="item active">
-                    <img src="img/fore/carousel1.jpg" class="carousel carouselImage">
+                    <img src="img/fore/1.png" class="carousel carouselImage">
                 </div>
                 <div class="item">
-                    <img src="img/fore/carousel2.jpg" class="carouselImage">
+                    <img src="img/fore/2.png" class="carouselImage">
                 </div>
                 <div class="item">
-                    <img src="img/fore/carousel3.jpg" class="carouselImage">
+                    <img src="img/fore/3.jpg" class="carouselImage">
                 </div>
                 <div class="item">
-                    <img src="img/fore/carousel4.jpg" class="carouselImage">
+                    <img src="img/fore/4.png" class="carouselImage">
                 </div>
             </div>
         </div>

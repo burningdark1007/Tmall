@@ -8,12 +8,6 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * 逆向工程测试类
- *
- * @author: @我没有三颗心脏
- * @create: 2018-04-27-上午 8:26
- */
 //@RunWith(SpringJUnit4ClassRunner.class)
 //@ContextConfiguration("classpath:spring-mybatis.xml")
 public class TestMybatisGenerator {

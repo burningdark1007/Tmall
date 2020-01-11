@@ -283,7 +283,7 @@
     <form action="createOrder" method="post">
 
         <div class="buyFlow">
-            <img class="pull-left" src="img/fore/simpleLogo.png">
+            <img width="70px" height="70px" class="pull-left" src="img/fore/logo3.jpg">
             <img class="pull-right" src="img/fore/buyflow.png">
             <div style="clear:both"></div>
         </div>
@@ -295,7 +295,7 @@
                     <tr>
                         <td class="firstColumn">详细地址<span class="redStar">*</span></td>
 
-                        <td><textarea name="address" placeholder="建议您如实填写详细收货地址，例如接到名称，门牌好吗，楼层和房间号等信息"></textarea></td>
+                        <td><textarea name="address" placeholder="建议您如实填写详细收货地址，例如街道名称，门牌号码，楼层和房间号等信息"></textarea></td>
                     </tr>
                     <tr>
                         <td>邮政编码</td>
@@ -322,7 +322,7 @@
                 <thead>
                 <tr>
                     <th colspan="2" class="productListTableFirstColumn">
-                        <img class="tmallbuy" src="img/fore/tmallbuy.png">
+                        <img class="tmallbuy" src="img/fore/timg.jpg">
                         <a class="marketLink" href="#nowhere">店铺：生鲜购物</a>
                         <a class="wangwanglink" href="#nowhere"> <span class="wangwangGif"></span></a>
                     </th>

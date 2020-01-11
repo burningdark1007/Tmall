@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f3a1cd4-6906-41d8-8714-9d5e249be6c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../java/cn/wmyskxz/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adminLogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../img/fore/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../img/fore/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../img/fore/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../img/fore/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../img/fore/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../img/fore/fruit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../img/fore/logo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../img/fore/snlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../img/fore/timg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../java/cn/wmyskxz/controller/ForeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../java/cn/wmyskxz/controller/ForeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../java/cn/wmyskxz/controller/PageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../java/cn/wmyskxz/controller/PageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../java/cn/wmyskxz/interceptor/LoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../java/cn/wmyskxz/interceptor/LoginInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../java/cn/wmyskxz/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../java/cn/wmyskxz/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../java/cn/wmyskxz/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../java/cn/wmyskxz/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/editCategory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/editCategory.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/editProduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/editProduct.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/editProductImage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/editProductImage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/editProperty.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/editProperty.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/editPropertyValue.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/editPropertyValue.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/editUser.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/editUser.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listCategory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/listCategory.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listLink.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/listLink.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listOrder.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/listOrder.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listProduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/listProduct.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listProperty.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/listProperty.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listPropertyValue.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/listPropertyValue.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listUser.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/listUser.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alipay.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../alipay.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bought.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../bought.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buyPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../buyPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../confirmPay.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../confirmPay.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../include/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../include/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/mini-search.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../include/mini-search.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/search.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../include/search.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/top.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../include/top.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../payed.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../payed.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../product.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/fore/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../css/fore/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../img/fore/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../img/fore/background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../img/fore/logo2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../img/fore/logo2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/classes/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/classes/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/editCategory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/editCategory.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/editProduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/editProduct.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/editProductImage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/editProductImage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/editProperty.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/editProperty.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/editPropertyValue.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/editPropertyValue.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/editUser.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/editUser.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/listCategory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/listCategory.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/listLink.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/listLink.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/listOrder.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/listOrder.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/listProduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/listProduct.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/listProperty.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/listProperty.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/listPropertyValue.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/listPropertyValue.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/listUser.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/admin/listUser.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/alipay.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/alipay.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/bought.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/bought.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/buyPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/buyPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/confirmPay.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/confirmPay.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/include/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/include/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/include/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/include/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/include/mini-search.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/include/mini-search.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/include/search.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/include/search.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/include/top.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/include/top.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/payed.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/payed.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/product.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/product.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/WEB-INF/views/test.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/css/fore/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/css/fore/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/23/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/23/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/23/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/23/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/23/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/23/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/23/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/23/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/23/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/23/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/26/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/26/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/26/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/26/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/28/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/28/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/29/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/29/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/30/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/30/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/31/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/31/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/32/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/32/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/33/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/33/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/34/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../target/wmyskxz-1.0-SNAPSHOT/img/product/34/1.jpg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectId" id="1W0urLU62ypKxwhRB1UiG31j9sr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../sculptor-boot-generator" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f3a1cd4-6906-41d8-8714-9d5e249be6c2" name="Default Changelist" comment="" />
+      <created>1578299030892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578299030892</updated>
+      <workItem from="1578299032538" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

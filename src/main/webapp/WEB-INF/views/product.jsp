@@ -576,7 +576,7 @@
         <div style="clear:both"></div>
     </div>
     <div class="productDetailImagesPart">
-        <img src="http://how2j.cn/tmall/img/productDetail/8626.jpg">
+        <img src="/img/fore/fruit.jpg">
     </div>
 </div>
 <div style="clear:both"></div>

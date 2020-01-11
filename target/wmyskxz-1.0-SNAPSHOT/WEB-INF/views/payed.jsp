@@ -73,7 +73,7 @@
             <li>实付款：<span class="payedInfoPrice">
             ￥${param.total}
             </li>
-            <li>预计02月31日送达    </li>
+            <li>预计三日内送达，偏远地区除外    </li>
         </ul>
 
         <div class="paedCheckLinkDiv">
@@ -89,7 +89,7 @@
 
     <div class="warningDiv">
         <img src="img/fore/warning.png">
-        <b>安全提醒：</b>下单后，<span class="redColor boldWord">用QQ给您发送链接办理退款的都是骗子！</span>天猫不存在系统升级，订单异常等问题，谨防假冒客服电话诈骗！
+        <b>安全提醒：</b>下单后，<span class="redColor boldWord">用QQ给您发送链接办理退款的都是骗子！</span>生鲜超市不存在系统升级，订单异常等问题，谨防假冒客服电话诈骗！
     </div>
 
 </div>

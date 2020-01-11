@@ -42,7 +42,7 @@
 </style>
 <div class="aliPayPageDiv">
     <div class="aliPayPageLogo">
-        <img class="pull-left" src="img/fore/simpleLogo.png">
+        <img width="70px" height="70px" class="pull-left" src="img/fore/logo3.jpg">
         <div style="clear:both"></div>
     </div>
 

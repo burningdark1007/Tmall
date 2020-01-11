@@ -300,9 +300,9 @@
                         <span>订单号: ${o.order_code}
                     </span>
                     </td>
-                    <td colspan="2"><img width="13px" src="img/fore/orderItemTmall.png">天猫商场</td>
+                    <td colspan="2"><img width="13px" src="img/fore/timg">生鲜超市</td>
                     <td colspan="1">
-                        <a class="wangwanglink" href="#nowhere">
+                        <a class="wangwanglink" href="">
                             <div class="orderItemWangWangGif"></div>
                         </a>
 

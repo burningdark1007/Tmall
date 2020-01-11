@@ -8,7 +8,7 @@
         <%-- 图片logo --%>
         <div class="logo">
             <a href="${context}">
-                <img src="img/fore/logo.jpg">
+                <img src="img/fore/logo3.jpg">
             </a>
         </div>
 
@@ -60,7 +60,9 @@
             <span class="glyphicon glyphicon-th-list category-type-icon"></span>
             <span class="category-type-text">商品分类</span>
         </span>
+
         <span>
+
             <!--
             <a href="">
                 <img src="img/fore/tmall-shop.png">
@@ -68,7 +70,11 @@
             <a href="">
                 <img src="img/fore/tmall-international.png">
             </a>
+            <a href="">
+                <img src="img/fore/snlogo.png">
+            </a>
             -->
+            <a href="javascript:void(0)">友情链接：</a>
             <c:forEach items="${links}" var="link">
                 <a href="${link.link}">${link.text}</a>
             </c:forEach>

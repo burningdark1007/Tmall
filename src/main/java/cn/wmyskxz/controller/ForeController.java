@@ -132,6 +132,20 @@ public class ForeController {
 		return "redirect:home";
 	}
 
+	@RequestMapping("/adminLogin")
+	public String adminLogin(Model model,
+						@RequestParam("name") String name,
+						@RequestParam("password") String password,
+						HttpSession session) {
+		User user = userService.get(name, password);
+		if (null == user) {
+			model.addAttribute("msg", "账号密码错误");
+			return "admin/adminLogin";
+		}
+		session.setAttribute("admin", user);
+		return "redirect:admin/index";
+	}
+
 	@RequestMapping("/logout")
 	public String logout(HttpSession session) {
 		session.removeAttribute("user");

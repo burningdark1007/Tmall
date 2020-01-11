@@ -32,7 +32,7 @@
     <!-- 拦截器 -->
     <mvc:interceptors>
         <mvc:interceptor>
-            <mvc:mapping path="/*"/>
+            <mvc:mapping path="/**"/>
             <bean class="cn.wmyskxz.interceptor.LoginInterceptor"/>
         </mvc:interceptor>
         <mvc:interceptor>

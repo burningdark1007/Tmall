@@ -5,8 +5,9 @@
 <html>
 <head>
     <title>生鲜超市</title>
+    <link rel="icon" href="/img/fore/logo3.jpg" sizes="32x32">
 
-    <%-- 引入JQ和Bootstrap--%>
+<%-- 引入JQ和Bootstrap--%>
     <script src="js/jquery/2.0.0/jquery.min.js"></script>
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <script src="js/bootstrap/3.3.6/bootstrap.min.js"></script>

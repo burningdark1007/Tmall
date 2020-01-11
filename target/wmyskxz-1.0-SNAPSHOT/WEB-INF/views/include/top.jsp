@@ -1,7 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8" isELIgnored="false" %>
 
-
 <%-- 顶部导航栏 --%>
 <nav id="site-nav" role="navigation">
     <div class="workArea">
@@ -16,7 +15,7 @@
         <%-- 如果用户成功登录，则显示如下： --%>
         <c:if test="${!empty sessionScope.user}">
             <span>Hi，${sessionScope.user.name}</span>
-            <span><a href="nowhere">积分 <strong>1251</strong></a></span>
+            <span><a href="/home"><strong>主页</strong></a></span>
             <span><a href="/logout">退出</a></span>
         </c:if>
 

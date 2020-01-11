@@ -85,15 +85,18 @@
 
     .logo {
         position: absolute;
-        margin-left: 15px;
-        top: 75px;
+        margin-left: 0px;
+        top: 20px;
         z-index: 99;
     }
 
+
     .logo img {
-        height: 130px;
-        width: 240px;
+        height: 80px;
+        width: 80px;
     }
+
+
 </style>
 
 <!-- 搜索栏 -->
@@ -101,7 +104,7 @@
     <div class="headerCon">
         <div class="logo">
             <a href="/home">
-                <img src="img/fore/logo.jpg" id="logo">
+                    <img src="img/fore/logo3.jpg" id="logo" />
             </a>
         </div>
         <div class="fullSearchDiv">
@@ -109,21 +112,19 @@
                 <input type="text" value="${param.keyword}" placeholder="搜索商品" name="keyword">
                 <button class="searchButton" type="submit">搜索</button>
             </form>
-            <!--
+
             <div>
-                <button class="shopButton" type="button">搜本店</button>
+                <!--<button class="shopButton" type="button">搜本店</button>-->
             </div>
-            -->
+
             <div class="searchBelow">
-                <!--
-				<span> <a href="#nowhere"> 手机 </a> <span>|</span>
-				</span> <span> <a href="#nowhere"> 小米mix2s </a> <span>|</span>
-				</span> <span> <a href="#nowhere"> 小米 </a> <span>|</span>
-				</span> <span> <a href="#nowhere"> mix2s </a></span><span>|</span>
-                </span> <span> <a href="#nowhere"> 小米6 </a></span><span>|</span>
-                </span> <span> <a href="#nowhere"> 高通骁龙手机 </a></span><span>|</span>
-                </span> <span> <a href="#nowhere"> 小米手机 </a></span>
-                -->
+
+				<span> <a href="#nowhere"> 水果 </a> <span>|</span>
+				</span> <span> <a href="#nowhere"> 海鲜 </a> <span>|</span>
+				</span> <span> <a href="#nowhere"> 肉类 </a> <span>|</span>
+				</span> <span> <a href="#nowhere"> 禽蛋 </a></span><span>|</span>
+                </span>
+
             </div>
         </div>
     </div>

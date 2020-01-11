@@ -50,10 +50,23 @@ public class LoginInterceptor extends HandlerInterceptorAdapter {
 				"/registerSuccessPage",
 				"/test",
 				"/checkLogin",
-				"/admin"
+//				"/admin",
+				"/adminLogin",
+                "/admin/login"
 		};
+
 		String uri = request.getRequestURI();
+
+        System.out.println("--------"+uri+"--------");
 		if (!Arrays.asList(noNeedAuthPage).contains(uri)) {
+            if (uri.contains("/admin")){
+                User user = (User)session.getAttribute("admin");
+
+                if (user == null) {
+                    response.sendRedirect("/admin/login");
+                    return false;
+                }
+            }
 			User user = (User) session.getAttribute("user");
 			if (null == user) {
 				response.sendRedirect("/loginPage");

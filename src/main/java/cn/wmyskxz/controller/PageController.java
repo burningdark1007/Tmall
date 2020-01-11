@@ -50,4 +50,10 @@ public class PageController {
 	public String admin() {
 		return "admin/index";
 	}
+
+	@RequestMapping("/admin/login")
+	public String admiLogin() {
+		return "admin/adminLogin";
+	}
+
 }

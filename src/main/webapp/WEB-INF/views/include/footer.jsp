@@ -75,7 +75,7 @@
     }
 
     div.footer-copyright {
-        margin-left: 10px;
+        text-align: center;
         padding-bottom: 30px;
         line-height: 35px;
         color: #A4A4A4;
@@ -229,6 +229,8 @@
                         <img src="img/fore/copyRight2.jpg">
                     </div>
                     -->
+                    <span>请使用IE8及以上浏览器、或者Firefox、Google Chrome浏览器</span>
+                    <br/>
                 </div>
             </div>
 

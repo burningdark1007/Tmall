@@ -60,4 +60,10 @@ public class UserServiceImpl implements UserService {
 	public void add(User user) {
 		userMapper.insert(user);
 	}
+
+	public User adminLogin(User user){
+
+
+		return userMapper.adminLogin(user);
+	}
 }

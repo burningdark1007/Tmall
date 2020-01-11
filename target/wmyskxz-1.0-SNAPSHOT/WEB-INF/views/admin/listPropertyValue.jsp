@@ -3,9 +3,11 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <html>
 <head>
+    <link rel="icon" href="/img/fore/logo3.jpg" sizes="32x32">
+
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>模仿天猫-后台</title>
+    <title>生鲜超市-后台</title>
     <!-- Bootstrap Styles-->
     <link href="../assets/css/bootstrap.css" rel="stylesheet"/>
     <!-- FontAwesome Styles-->
@@ -102,7 +104,8 @@
                                                     class="glyphicon glyphicon-edit"></span></a></td>
                                             <td>
                                                 <a href="deletePropertyValue?id=${pv.id}&category_id=${product.category_id}"><span
-                                                        class="glyphicon glyphicon-trash"></span></a></td>
+                                                        class="glyphicon glyphicon-trash"></span></a>
+                                            </td>
                                         </tr>
                                         <%--</c:if>--%>
                                         <%--</c:forEach>--%>
@@ -147,11 +150,12 @@
                                 <label>属性名称：</label>
                                 <select class="form-control"
                                         onchange="document.addPropertyValueForm.property_id.value=this.value">
+                                    <option value="">--请选择--</option>
                                     <c:forEach var="p" items="${properties}">
                                         <option value="${p.id}">${p.name}</option>
                                     </c:forEach>
                                 </select>
-                                <input type="hidden" name="property_id" value="">
+                                <input type="hidden" name="property_id" value="" required="required">
                                 <label>属性值：</label>
                                 <input type="text" name="value" class="form-control" placeholder="请在这里输入属性值"><br>
                                 <input type="submit" class="btn btn-default pull-right" value="添加">

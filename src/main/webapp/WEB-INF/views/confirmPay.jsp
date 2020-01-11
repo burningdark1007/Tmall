@@ -218,11 +218,11 @@
         <table class="confirmPayOrderDetailTable">
             <tr>
                 <td>订单编号：</td>
-                <td>${order.order_code} <img width="23px" src="img/fore/confirmOrderTmall.png"></td>
+                <td>${order.order_code} <img width="23px" src="img/fore/timg.jpg"></td>
             </tr>
             <tr>
                 <td>卖家昵称：</td>
-                <td>天猫商铺 <span class="confirmPayOrderDetailWangWangGif"></span></td>
+                <td>生鲜超市 <span class="confirmPayOrderDetailWangWangGif"></span></td>
             </tr>
             <tr>
                 <td>收货信息：</td>
